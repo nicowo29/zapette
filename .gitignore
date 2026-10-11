@@ -1,0 +1,7 @@
+node_modules
+dist
+*.tsbuildinfo
+# outils d'essai et fichiers locaux : hors du dépôt public
+spike/
+.claude/
+lecteur-qr.png
